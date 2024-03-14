@@ -2,9 +2,6 @@
 
 <h3>Basic project done using TypeScript Tailwind and React. </h2>
 
-<h3> preview: </h3>
-
-![image](https://github.com/Zrital3265/BasicPasswordGenerator/assets/116243106/74ae38f7-1434-4447-8a1b-4f60b27cbe5f)
 
 To clone the repo :
 
@@ -22,5 +19,8 @@ then use :
 ```
 npm run dev
 ```
+<h3> preview: </h3>
+
+![Screenshot from 2024-03-14 11-29-04](https://github.com/Zrital3265/BasicPasswordGenerator/assets/116243106/4b3137e2-f9c1-4cdc-b8f4-ca7ad0169dcc)
 
 Enjoy :)
